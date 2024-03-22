@@ -6,6 +6,14 @@ This repository contains the code for a simple resume webpage.
 
 - `index.html`: This file contains the HTML structure of the resume webpage.
 - `style.css`: This file contains the CSS styling for the resume webpage.
+- <img width="659" alt="image" src="https://github.com/praveenraj01234/Praveen-s-Resume/assets/89779074/aa275511-3a70-48c3-9daa-a07f42eb1f77">
+
+
+  
+  ## Hosted Link
+
+  (https://praveen-agrahari.netlify.app/)
+
 
 ## Description
 
